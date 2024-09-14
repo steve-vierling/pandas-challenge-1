@@ -49,9 +49,9 @@ The project follows the following structure:
 Code language: Python (python)\  
 pandas-challenge-1/\  
 ├──wholesale_data_analysis_starter_code.ipynb   
-|--README.md     
+├──README.md
 └─ Resources  
-  |-client_dataset.csv  
+ └─client_dataset.csv 
 
 ## License  
 This project is licensed under Steve Vierling Programming, Ltd.  
