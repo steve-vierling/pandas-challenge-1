@@ -21,6 +21,7 @@ First, I created 5 new dataframes, using loc to populate the line_price for each
 Secondly, I created a new DataFrame showing the totals for the top 5 clients, including total units purchased, total shipping price, total revenue, and total profit.   
 Third, I created a new DataFrame to rename column headings from the previous DataFrame. I defined the money columns.  Next, I created a new function named currency_format_millions, to convert dollar amount to millions.  I applied that new function to only the money columns. Finally, I renamed the columns one last time to include the fact that dollar amounts were in millions.   
 Fourth, and final step, I sorted the updated data by "Total Profit (millions)" form highest to lowest and assigned the sort to a new DataFrame.  
+## Summary of Findings: Drilling deep into data leads to revelations.  In this exercise, we dove into total profit, where we learned that client 24741 is generating the most profit ($36.58M). In fact, client 24741 is generating 11 times more profit than the second highest client($3.27M).  That is an enormous discrepancy and one that a company should focus on.  Client 24741 deserves the highest customer service and attention.   
 
 ## Table of Contents
 
